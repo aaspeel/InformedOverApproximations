@@ -9,7 +9,7 @@ The code uses Julia-1.10 and requires a Gurobi license. Free Gurobi licenses are
 
 In the folder « src », use the Julia REPL to activate the environment by running:
 
-`import Pkg; Pkg.activate("Project.toml")`
+`import Pkg; Pkg.activate("src/Project.toml")`
 
 Then, to reproduce the experiments, run:
 
