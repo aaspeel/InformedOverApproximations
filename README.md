@@ -3,7 +3,7 @@
 
 This repository contains all the code necessary to implement the experiments in
 
-* Antoine Aspeel, Thiago Alves Lima and Antoine Girard. **Title**.
+* Antoine Aspeel, Antoine Girard, and Thiago Alves Lima. **Title**.
 
 The code uses Julia-1.10 and requires a Gurobi license. Free Gurobi licenses are available for academics. More information [here](https://www.gurobi.com/academia/academic-program-and-licenses/).
 
